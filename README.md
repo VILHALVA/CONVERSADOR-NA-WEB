@@ -23,6 +23,8 @@ Este bot é uma demonstração prática de como implementar um chatbot simples c
 
 2. **Envio de Mensagem**:
    - Digite uma mensagem no campo de entrada e clica no botão "ENVIAR".
+   - O bot responderá automaticamente com uma mensagem sobre um dos 50 tópicos comuns.
+   - Continue a conversa digitando novas mensagens e recebendo respostas automáticas do bot.
 
 3. **Processamento**:
    - A mensagem do usuário é exibida no chat como "USUARIO".
