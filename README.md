@@ -1,7 +1,7 @@
-# CHATBOT DE BATE PAPO
+# CONVERSADOR NA WEB
 👨‍🏫CHATBOT SIMPLES QUE USA O CDN DO JQUERY.
 
-<img src="FOTO.png" align="center" width="500"> <br>
+<img src="FOTO.jpg" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 O bot é um chatbot simples que oferece respostas automáticas sobre 50 assuntos comuns do dia a dia. 
@@ -19,7 +19,7 @@ Este bot é uma demonstração prática de como implementar um chatbot simples c
 
 ## EXECUTANDO O PROJETO:
 1. **Inicialização**:
-   - Abra o arquivo `./CODIGO/CODIGO.html` no navegador de sua preferencia.
+   - Abra o arquivo `./CODIGO/index.html` no navegador de sua preferencia.
 
 2. **Envio de Mensagem**:
    - Digite uma mensagem no campo de entrada e clica no botão "ENVIAR".
