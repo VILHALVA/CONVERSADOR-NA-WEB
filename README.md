@@ -1,5 +1,5 @@
 # CONVERSADOR NA WEB
-👨‍🏫CHATBOT SIMPLES QUE USA O CDN DO JQUERY.
+👨‍🏫CHATBOT DE PAPO SIMPLES PARA WEB.
 
 <img src="FOTO.png" align="center" width="500"> <br>
 
