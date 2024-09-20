@@ -1,7 +1,7 @@
 # CONVERSADOR NA WEB
 👨‍🏫CHATBOT SIMPLES QUE USA O CDN DO JQUERY.
 
-<img src="FOTO.jpg" align="center" width="500"> <br>
+<img src="FOTO.png" align="center" width="500"> <br>
 
 ## DESCRIÇÃO:
 O bot é um chatbot simples que oferece respostas automáticas sobre 50 assuntos comuns do dia a dia. 
