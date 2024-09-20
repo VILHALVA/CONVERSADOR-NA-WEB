@@ -9,7 +9,7 @@ let responses = {
     "ajuda": "Claro! Em que posso ajudar?",
     "o que você pode fazer?": "Eu posso conversar com você, responder perguntas simples e te guiar em tarefas básicas! Pergunte sobre:\n- tecnologia.\n- ciência.\n- filosofia.\n- teologia.\n- programação.\n- E muito mais! Se precisar de ajuda, estou por aqui!",
     "como você está?": "Eu sou apenas um programa, mas estou funcionando bem!",
-    "qual é o seu nome?": "Eu sou o ROBÔ ED, seu assistente virtual.",
+    "qual é o seu nome?": "Eu sou o BOT CONVERSADOR, seu assistente virtual.",
     "até logo": "Até logo! Foi bom falar com você.",
 
     // ASSUNTOS GERAIS:
