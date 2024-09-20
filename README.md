@@ -13,7 +13,7 @@ Este bot é uma demonstração prática de como implementar um chatbot simples c
 
 2. **Tema Escuro**: A interface do chat possui um tema escuro, tornando-a mais agradável para visualização em ambientes com pouca luz.
 
-3. **Interação Simples**: O usuário digita uma mensagem no campo de entrada e clica em "Enviar". Após um breve intervalo, o bot responde automaticamente com uma mensagem relevante ao tópico mencionado.
+3. **Interação Simples**: O usuário digita uma mensagem no campo de entrada e clica no ícone de "Enviar". Após um breve intervalo, o bot responde automaticamente com uma mensagem relevante ao tópico mencionado.
 
 4. **Interface Visual**: Utiliza HTML, CSS e JavaScript para criar uma interface de chat responsiva e intuitiva, mostrando as mensagens dos usuários e do bot.
 
@@ -22,13 +22,13 @@ Este bot é uma demonstração prática de como implementar um chatbot simples c
    - Abra o arquivo `./CODIGO/index.html` no navegador de sua preferencia.
 
 2. **Envio de Mensagem**:
-   - Digite uma mensagem no campo de entrada e clica no botão "ENVIAR".
+   - Digite uma mensagem no campo de entrada e clica no botão de ícone de "ENVIAR".
    - O bot responderá automaticamente com uma mensagem sobre um dos 50 tópicos comuns.
    - Continue a conversa digitando novas mensagens e recebendo respostas automáticas do bot.
 
 3. **Processamento**:
-   - A mensagem do usuário é exibida no chat como "USUARIO".
-   - O bot processa a mensagem após um breve intervalo e envia uma resposta como "ROBÔ" com base nas palavras-chave definidas em `RESPOSTAS.js`.
+   - A mensagem do usuário é exibida no chat como "VOCÊ".
+   - O bot processa a mensagem após um breve intervalo e envia uma resposta como "CONVERSADOR" com base nas palavras-chave definidas em `RESPOSTAS.js`.
 
 4. **Exemplos de Uso**:
    - Digitar "tempo" para receber informações sobre o clima.
