@@ -19,7 +19,7 @@ function addButtons() {
     const buttonsHtml = `
         <div class="button-container">
             <a href="https://t.me/VILHALVA100" class="inline-button" target="_blank">💻CRIADOR</a>
-            <a href="https://t.me/VILHALVA100_CANAL" class="inline-button" target="_blank">📢CANAL</a>
+            <a href="https://t.me/VILHALVA100_OFICIAL" class="inline-button" target="_blank">📢CANAL</a>
         </div>
     `;
     $('#chat-container').append(buttonsHtml);
